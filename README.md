@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivani36giri
+- 👋 Hi, I’m @shivanigiri
 - 👀 I’m interested in PYTHON MACHINE LEARNING SQL EXCEL
 - 🌱 I’m currently learning DATA SCIENCE
 - 💞️ I’m looking to collaborate on DATA SCIENCE AND BUSINESS ANALYTICS projects
